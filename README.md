@@ -2,6 +2,7 @@
 
 Automation Framework with Sample application to test UI 
 There is sample application created in Kotlin present on public git which is dummy application to give information on Covid-19 Precaution.
+..
 
 This framework aims to showcase automation framework on sample application in Kotlin which support multiple framework like expresso and UIAutomation.
 
