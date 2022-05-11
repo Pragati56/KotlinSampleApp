@@ -1,6 +1,6 @@
 # KotlinSampleApp
 
-Automation Framework with Sample application to test UI 
+Automation Framework with Sample application to test UI ..
 There is sample application created in Kotlin present on public git which is dummy application to give information on Covid-19 Precaution.
 ..
 
