@@ -7,7 +7,7 @@ This framework aims to showcase automation framework on sample application in Ko
 
 Project structure has both expresso and UI Automation test case present in package  android test  and will help other team as reference create automaton framework for their respective application
 
-Differnce between Differnt mobile automation framework
+Differnce between Differnt mobile automation framework....
 
 Comparison of Different Mobile Automation Framework
 Below is quick summary of comparison of different Mobile automation framework .
